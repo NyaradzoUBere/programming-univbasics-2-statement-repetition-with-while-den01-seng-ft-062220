@@ -16,7 +16,7 @@
 # end
 
 count = 10
-exit_number = 1
+exit_number = 0
 while count > 0 do
   break if count == exit_number
   puts count
