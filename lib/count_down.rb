@@ -15,6 +15,13 @@
 #   count += 1
 # end
 
+count = 10
+exit_number = 1
+while count > 0 do
+  break if count == exit_number
+  puts count
+  count -= 1
+end
 
 
 
